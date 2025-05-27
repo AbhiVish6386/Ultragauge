@@ -122,3 +122,13 @@ B.Tech CSE | Electronics & Embedded Systems Enthusiast
 
 ## 📄 License
 This project is licensed under the **GPLv3** — see the [LICENSE](LICENSE) file for details.
+
+Copyright (c) 2025 Abhishek Kumar Vishwakarma
+
+This code is for **educational and non-commercial use only**.
+
+No redistribution, modification, or commercial use is allowed without explicit permission.
+
+Attribution is required wherever this code is used.
+
+The software is provided "as is", without warranty of any kind.
